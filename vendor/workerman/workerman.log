@@ -1,0 +1,106 @@
+2018-10-29 22:29:44 pid:3822 Workerman[test.php] status 
+2018-10-29 22:29:44 pid:3822 Workerman[test.php] not run
+2018-10-29 22:29:52 pid:3831 Workerman[test.php] status 
+2018-10-29 22:29:52 pid:3831 Workerman[test.php] not run
+2018-10-29 22:29:56 pid:3840 Workerman[test.php] start in DEBUG mode
+2018-10-29 22:42:48 pid:7462 Workerman[test.php] start in DEBUG mode
+2018-10-29 22:44:03 pid:7462 Workerman[test.php] stopping ...
+2018-10-29 22:44:03 pid:7462 Workerman[test.php] has been stopped
+2018-10-29 22:44:06 pid:7486 Workerman[test.php] start in DEBUG mode
+2018-10-29 22:44:08 pid:7486 Workerman[test.php] stopping ...
+2018-10-29 22:44:08 pid:7486 Workerman[test.php] has been stopped
+2018-10-29 22:44:29 pid:7501 Workerman[test.php] start in DEBUG mode
+2018-10-29 22:46:05 pid:7501 Workerman[test.php] stopping ...
+2018-10-29 22:46:05 pid:7501 Workerman[test.php] has been stopped
+2018-10-29 22:46:31 pid:7566 Workerman[test.php] start in DEBUG mode
+2018-10-29 22:46:41 pid:7578 Workerman[test.php] start in DEBUG mode
+2018-10-29 22:46:53 pid:7578 Workerman[test.php] stopping ...
+2018-10-29 22:46:53 pid:7578 Workerman[test.php] has been stopped
+2018-10-29 22:46:57 pid:7603 Workerman[test.php] start in DEBUG mode
+2018-10-29 22:47:59 pid:7603 Workerman[test.php] stopping ...
+2018-10-29 22:47:59 pid:7603 Workerman[test.php] has been stopped
+2018-10-29 22:48:21 pid:7648 Workerman[test.php] start in DEBUG mode
+2018-10-29 22:48:31 pid:7651 Worker[7651] process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare memory_usage() (previously declared in /Volumes/Storage/Code/Project/workerman/index.php:26) in /Volumes/Storage/Code/Project/workerman/index.php on line 28"
+2018-10-29 22:48:31 pid:7648 worker[WebServer:7651] exit with status 65280
+2018-10-29 22:48:32 pid:7649 Worker[7649] process terminated
+2018-10-29 22:48:33 pid:7652 Worker[7652] process terminated
+2018-10-29 22:48:33 pid:7658 Worker[7658] process terminated
+2018-10-29 22:48:34 pid:7650 Worker[7650] process terminated
+2018-10-29 22:48:35 pid:7660 Worker[7660] process terminated
+2018-10-29 22:48:36 pid:7662 Worker[7662] process terminated
+2018-10-29 22:48:37 pid:7661 Worker[7661] process terminated
+2018-10-29 22:48:38 pid:7664 Worker[7664] process terminated
+2018-10-29 22:48:39 pid:7663 Worker[7663] process terminated
+2018-10-29 22:48:40 pid:7666 Worker[7666] process terminated
+2018-10-29 22:48:41 pid:7665 Worker[7665] process terminated
+2018-10-29 22:48:42 pid:7667 Worker[7667] process terminated
+2018-10-29 22:48:43 pid:7668 Worker[7668] process terminated
+2018-10-29 22:48:44 pid:7671 Worker[7671] process terminated
+2018-10-29 22:48:45 pid:7672 Worker[7672] process terminated
+2018-10-29 22:48:46 pid:7673 Worker[7673] process terminated
+2018-10-29 22:48:47 pid:7674 Worker[7674] process terminated
+2018-10-29 22:48:48 pid:7670 Worker[7670] process terminated
+2018-10-29 22:48:49 pid:7676 Worker[7676] process terminated
+2018-10-29 22:48:50 pid:7677 Worker[7677] process terminated
+2018-10-29 22:48:51 pid:7675 Worker[7675] process terminated
+2018-10-29 22:48:52 pid:7678 Worker[7678] process terminated
+2018-10-29 22:48:53 pid:7679 Worker[7679] process terminated
+2018-10-29 22:48:54 pid:7680 Worker[7680] process terminated
+2018-10-29 22:48:55 pid:7682 Worker[7682] process terminated
+2018-10-29 22:48:56 pid:7683 Worker[7683] process terminated
+2018-10-29 22:48:57 pid:7684 Worker[7684] process terminated
+2018-10-29 22:48:58 pid:7681 Worker[7681] process terminated
+2018-10-29 22:48:59 pid:7686 Worker[7686] process terminated
+2018-10-29 22:49:00 pid:7685 Worker[7685] process terminated
+2018-10-29 22:49:01 pid:7687 Worker[7687] process terminated
+2018-10-29 22:49:02 pid:7689 Worker[7689] process terminated
+2018-10-29 22:49:03 pid:7688 Worker[7688] process terminated
+2018-10-29 22:49:04 pid:7691 Worker[7691] process terminated
+2018-10-29 22:49:05 pid:7690 Worker[7690] process terminated
+2018-10-29 22:49:06 pid:7693 Worker[7693] process terminated
+2018-10-29 22:49:07 pid:7692 Worker[7692] process terminated
+2018-10-29 22:49:08 pid:7695 Worker[7695] process terminated
+2018-10-29 22:49:09 pid:7696 Worker[7696] process terminated
+2018-10-29 22:49:10 pid:7697 Worker[7697] process terminated
+2018-10-29 22:49:11 pid:7698 Worker[7698] process terminated
+2018-10-29 22:49:12 pid:7694 Worker[7694] process terminated
+2018-10-29 22:49:13 pid:7702 Worker[7702] process terminated
+2018-10-29 22:49:14 pid:7703 Worker[7703] process terminated
+2018-10-29 22:49:15 pid:7704 Worker[7704] process terminated
+2018-10-29 22:49:16 pid:7705 Worker[7705] process terminated
+2018-10-29 22:49:17 pid:7706 Worker[7706] process terminated
+2018-10-29 22:49:18 pid:7707 Worker[7707] process terminated
+2018-10-29 22:49:19 pid:7708 Worker[7708] process terminated
+2018-10-29 22:49:20 pid:7710 Worker[7710] process terminated
+2018-10-29 22:49:21 pid:7711 Worker[7711] process terminated
+2018-10-29 22:49:22 pid:7713 Worker[7713] process terminated
+2018-10-29 22:49:22 pid:7712 Worker[7712] process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare memory_usage() (previously declared in /Volumes/Storage/Code/Project/workerman/index.php:26) in /Volumes/Storage/Code/Project/workerman/index.php on line 28"
+2018-10-29 22:49:22 pid:7648 worker[WebServer:7712] exit with status 65280
+2018-10-29 22:49:23 pid:7709 Worker[7709] process terminated
+2018-10-29 22:49:24 pid:7716 Worker[7716] process terminated
+2018-10-29 22:49:25 pid:7714 Worker[7714] process terminated
+2018-10-29 22:49:26 pid:7719 Worker[7719] process terminated
+2018-10-29 22:49:27 pid:7717 Worker[7717] process terminated
+2018-10-29 22:49:27 pid:7721 Worker[7721] process terminated
+2018-10-29 22:49:28 pid:7722 Worker[7722] process terminated
+2018-10-29 22:49:28 pid:7720 Worker[7720] process terminated
+2018-10-29 22:49:29 pid:7723 Worker[7723] process terminated
+2018-10-29 22:49:30 pid:7724 Worker[7724] process terminated
+2018-10-29 22:49:30 pid:7727 Worker[7727] process terminated
+2018-10-29 22:49:31 pid:7725 Worker[7725] process terminated
+2018-10-29 22:49:31 pid:7728 Worker[7728] process terminated
+2018-10-29 22:49:32 pid:7729 Worker[7729] process terminated
+2018-10-29 22:49:33 pid:7731 Worker[7731] process terminated
+2018-10-29 22:49:34 pid:7732 Worker[7732] process terminated
+2018-10-29 22:49:35 pid:7730 Worker[7730] process terminated
+2018-10-29 22:49:36 pid:7735 Worker[7735] process terminated
+2018-10-29 22:49:37 pid:7736 Worker[7736] process terminated
+2018-10-29 22:49:38 pid:7737 Worker[7737] process terminated
+2018-10-29 22:49:39 pid:7738 Worker[7738] process terminated
+2018-10-29 22:49:40 pid:7734 Worker[7734] process terminated
+2018-10-29 22:49:41 pid:7740 Worker[7740] process terminated
+2018-10-29 22:49:42 pid:7739 Worker[7739] process terminated
+2018-10-29 22:49:43 pid:7743 Worker[7743] process terminated
+2018-10-29 22:49:44 pid:7744 Worker[7744] process terminated
+2018-10-29 22:50:16 pid:7648 Workerman[test.php] stopping ...
+2018-10-29 22:50:16 pid:7648 Workerman[test.php] has been stopped
